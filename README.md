@@ -43,8 +43,8 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ## 🌐 Connect With Me
 
 - GitHub: https://github.com/AadiAcharya
-- LinkedIn: https://linkedin.com
-- Twitter: https://twitter.com
+- LinkedIn: www.linkedin.com/in/aaditya-acharya-094774286
+- Email: aadityaacharya156@gmail.com
 
 ---
 
